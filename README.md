@@ -42,10 +42,12 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsyourboysiri&show_icons=true&theme=dark&locale=en&layout=compact" alt="itsyourboysiri" /></p>
 
-<br><br><br><br><br><br><br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=itsyourboysiri&show_icons=true&theme=dark&locale=en" alt="itsyourboysiri" />
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=itsyourboysiri&theme=dark" alt="itsyourboysiri" /></p>
-<br><br><br><br><br><br><br><br><br><br>
+<table align="center" style="border: none;">
+  <tr>
+    <td style="border: none;"><img src="https://github-readme-stats.vercel.app/api?username=itsyourboysiri&show_icons=true&theme=dark&locale=en" alt="itsyourboysiri" /></td>
+    <td style="border: none;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=itsyourboysiri&theme=dark" alt="itsyourboysiri" /></td>
+  </tr>
+</table>
 
 
 
